@@ -175,6 +175,7 @@
       <relatedItems xmi:id="_Fqjja34GEeeo1YoatTivMw" id="String_Split" version="Latest" type="routine"/>
       <relatedItems xmi:id="_zH51gH4HEeeo1YoatTivMw" id="DataMasking" version="Latest" type="routine"/>
       <relatedItems xmi:id="_zH51gX4HEeeo1YoatTivMw" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_lLWkYH6yEee30rLNWmpasg" id="_J_6GwH6yEee30rLNWmpasg" version="Latest" type="property"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_FqjjbH4GEeeo1YoatTivMw">
       <baseItem xmi:id="_FqjjbX4GEeeo1YoatTivMw" id="_9Ri40CEFEeamZ8UtfxQlaw" version="0.1" type="job"/>
