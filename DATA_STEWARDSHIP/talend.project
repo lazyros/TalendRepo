@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
-  <TalendProperties:Project xmi:id="_aoZl0aMLEeeSNoAJiwOoFw" label="Data Stewardship" description="Data Stewardship Repo" language="java" technicalLabel="DATA_STEWARDSHIP" creationDate="2017-09-26T17:23:00.000-0500" author="_aoZl0qMLEeeSNoAJiwOoFw" productVersion="Talend Data Fabric-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/lazyros/TalendRepo&quot;,&quot;login&quot;:&quot;lazyros&quot;,&quot;passwd&quot;:&quot;jQoXU4T2pxBpDf0PWR2ppQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM">
+  <TalendProperties:Project xmi:id="_aoZl0aMLEeeSNoAJiwOoFw" label="Data Stewardship" description="Data Stewardship Repo" language="java" technicalLabel="DATA_STEWARDSHIP" creationDate="2017-09-26T17:23:00.000-0500" author="_aoZl0qMLEeeSNoAJiwOoFw" productVersion="Talend Data Fabric-6.4.1.20170623_1246" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/lazyros/TalendRepo&quot;,&quot;login&quot;:&quot;lazyros&quot;,&quot;passwd&quot;:&quot;jQoXU4T2pxBpDf0PWR2ppQ==&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="MDM" itemsRelationVersion="1.3">
+    <technicalStatus xmi:id="_au52cKMLEeeSNoAJiwOoFw" label="development" code="DEV"/>
+    <technicalStatus xmi:id="_au52caMLEeeSNoAJiwOoFw" label="testing" code="TEST"/>
+    <technicalStatus xmi:id="_au52cqMLEeeSNoAJiwOoFw" label="production" code="PROD"/>
+    <documentationStatus xmi:id="_au2MEKMLEeeSNoAJiwOoFw" label="unchecked" code="UCK"/>
+    <documentationStatus xmi:id="_au2MEaMLEeeSNoAJiwOoFw" label="checked" code="CHK"/>
+    <documentationStatus xmi:id="_au2MEqMLEeeSNoAJiwOoFw" label="validated" code="VAL"/>
     <migrationTask xmi:id="_auQ9QKMLEeeSNoAJiwOoFw" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_auRkUKMLEeeSNoAJiwOoFw" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_auRkUaMLEeeSNoAJiwOoFw" id="org.talend.repository.model.migration.CleanFoldersMigrationTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
